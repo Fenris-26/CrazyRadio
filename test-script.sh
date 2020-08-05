@@ -11,8 +11,8 @@ dir
 cat /etc/hosts
 uname -a
 printf 'THIS IS SUPER LOUD... BUT PROVES THE CONCEPT ON LINUX '
-\n
+
 printf 'I called this from github, and you could make it silent and encode a stager for example.' 
-\n
+
 printf 'Or a payload for a reverse shell..' 
 
