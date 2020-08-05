@@ -11,6 +11,6 @@ dir
 cat /etc/hosts
 uname -a
 
-printf ***THIS IS SUPER LOUD... BUT PROVES THE CONCEPT ON LINUX***
-printf ***I called this from github, and you could make it silent and encode a stager \for example, or a payload \for a reverse shell*** 
+printf \***THIS IS SUPER LOUD... BUT PROVES THE CONCEPT ON LINUX***
+printf \***I called this from github, and you could make it silent and encode a stager \for example, or a payload \for a reverse shell*** 
 
