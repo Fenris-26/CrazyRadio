@@ -5,5 +5,9 @@
 #A CrazyRadioPA and the Mousejack repositories are necessary for this to work. See ' https://github.com/insecurityofthings/jackit '
 #Made by TreyCraf7
 
-print "this was pulled from Github."" Patch your device"\n
+echo "this was pulled from Github."" Patch your device"
+ip adder
+dir
+cat /etc/hosts
+uname -a
 
